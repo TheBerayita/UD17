@@ -1,0 +1,25 @@
+use piezasYProveedores
+
+db.createCollection("proveedores")
+
+db.poveedores.insertOne({"Id":"2541","Nombre":"Nombre1"})
+
+db.poveedores.insertOne({"Id":"2542","Nombre":"Nombre2"})
+
+db.poveedores.insertOne({"Id":"2543","Nombre":"Nombre3"})
+
+db.createCollection("suministra")
+
+db.suministra.insertOne({"Precio":"20"})
+
+db.suministra.insertOne({"Precio":"22"})
+
+db.suministra.insertOne({"Precio":"25"})
+
+db.createCollection("piezas")
+
+db.piezas.insertOne({"Codigo":"1","Nombre":"Nombre1"})
+
+db.piezas.insertOne({"Codigo":"2","Nombre":"Nombre2"})
+
+db.piezas.insertOne({"Codigo":"3","Nombre":"Nombre3"})

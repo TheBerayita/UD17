@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61fa6e10aaf614e4394484be"
+  },
+  "Id": "2541",
+  "Nombre": "Nombre1"
+},{
+  "_id": {
+    "$oid": "61fa6e15aaf614e4394484bf"
+  },
+  "Id": "2542",
+  "Nombre": "Nombre2"
+},{
+  "_id": {
+    "$oid": "61fa6e1baaf614e4394484c0"
+  },
+  "Id": "2543",
+  "Nombre": "Nombre3"
+}]
