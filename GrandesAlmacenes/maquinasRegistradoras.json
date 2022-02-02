@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61fa6bf3aaf614e4394484b8"
+  },
+  "Codigo": "1",
+  "Piso": "50"
+},{
+  "_id": {
+    "$oid": "61fa6bfaaaf614e4394484b9"
+  },
+  "Codigo": "2",
+  "Piso": "10"
+},{
+  "_id": {
+    "$oid": "61fa6c03aaf614e4394484ba"
+  },
+  "Codigo": "3",
+  "Piso": "20"
+}]

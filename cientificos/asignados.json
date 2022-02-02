@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61fa668daaf614e43944849e"
+  },
+  "cientifico": "41267357A",
+  "Proyecto": "1"
+},{
+  "_id": {
+    "$oid": "61fa66b0aaf614e43944849f"
+  },
+  "cientifico": "41267357B",
+  "Proyecto": "2"
+},{
+  "_id": {
+    "$oid": "61fa66b0aaf614e4394484a0"
+  },
+  "cientifico": "41267357B",
+  "Proyecto": "2"
+},{
+  "_id": {
+    "$oid": "61fa66b0aaf614e4394484a1"
+  },
+  "cientifico": "41267357B",
+  "Proyecto": "2"
+},{
+  "_id": {
+    "$oid": "61fa66b0aaf614e4394484a2"
+  },
+  "cientifico": "41267357B",
+  "Proyecto": "2"
+},{
+  "_id": {
+    "$oid": "61fa66b0aaf614e4394484a3"
+  },
+  "cientifico": "41267357B",
+  "Proyecto": "2"
+},{
+  "_id": {
+    "$oid": "61fa66b0aaf614e4394484a4"
+  },
+  "cientifico": "41267357B",
+  "Proyecto": "2"
+},{
+  "_id": {
+    "$oid": "61fa66b6aaf614e4394484a5"
+  },
+  "cientifico": "41267357C",
+  "Proyecto": "3"
+}]
