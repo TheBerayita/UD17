@@ -1,0 +1,25 @@
+use cientificos
+
+db.createCollection("cientificos")
+
+db.cientificos.insertOne({"DNI":"41267357A","NomApels":"Nombre1"})
+
+db.cientificos.insertOne({"DNI":"41267357B","NomApels":"Nombre2"})
+
+db.cientificos.insertOne({"DNI":"41267357C","NomApels":"Nombre3"})
+
+db.createCollection("proyecto")
+
+db.proyecto.insertOne({"id":"1","Nombre":"Nombre1","Horas":"50"})
+
+db.proyecto.insertOne({"id":"2","Nombre":"Nombre2","Horas":"60"})
+
+db.proyecto.insertOne({"id":"3","Nombre":"Nombre3","Horas":"55"})
+
+db.createCollection("asignado")
+
+db.asignado.insertOne({"cientifico":"41267357A","Proyecto":"1"})
+
+db.asignado.insertOne({"cientifico":"41267357B","Proyecto":"2"})
+
+db.asignado.insertOne({"cientifico":"41267357C","Proyecto":"3"})
