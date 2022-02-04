@@ -1,0 +1,18 @@
+use empleados
+db.createCollection("empleados")
+db.empleados.insertOne(
+  {
+    _dni: "12512347J",
+    nombre: "Miquel Angel Montero",
+    apellidos: "Montero Martí",
+    departamento: 1
+  }
+  )
+db.createCollection("departamentos")
+db.departamentos.insertOne(
+  {
+    _codigo: 1,
+    nombre: "departamento1",
+    presupuesto: 41234
+  }
+  )

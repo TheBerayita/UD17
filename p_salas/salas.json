@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "61fcd917f9a150145071e7a5"
+  },
+  "_codigo": 1,
+  "nombre": "sala1",
+  "pelicula": "spiderman 3"
+}]

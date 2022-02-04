@@ -1,0 +1,17 @@
+use p_salas
+db.createCollection("salas")
+db.salas.insertOne(
+  {
+    _codigo: 1,
+    nombre: "sala1",
+    pelicula: "spiderman 3"
+  }
+  )
+db.createCollection("peliculas")
+db.peliculas.insertOne(
+  {
+    _codigo: 1,
+    nombre: "spiderman 3",
+    clasificacionEdad: 1
+  }
+  )

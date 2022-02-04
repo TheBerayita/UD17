@@ -1,0 +1,17 @@
+use tienda_inf
+db.createCollection("articulos")
+db.articulos.insertOne(
+{
+	_codigo:1,
+	nombre:"articulo1",
+	precio:135,
+	fabricante:"fabricante1"
+}
+)
+db.createCollection("fabricantes")
+db.fabricantes.insertOne(
+{
+	_codigo:1,
+	nombre:"fabricante1"
+}
+)

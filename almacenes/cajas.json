@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "61fa6dcd1845c89dfd523e1b"
+  },
+  "_numReferencia": "abcde",
+  "contenido": "contenido1",
+  "valor": 41234,
+  "almacen": 1
+}]

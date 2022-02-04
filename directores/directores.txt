@@ -1,0 +1,17 @@
+use directores
+db.createCollection("director")
+db.director.insertOne(
+  {
+    _DNI: "12345678J",
+    nomApels: "Miquel Angel Montero",
+    DNIJefe: "98765432P",
+    despacho: 2
+  }
+  )
+db.createCollection("despachos")
+db.despachos.insertOne(
+  {
+    _Numero: 1,
+    capacidad: 50
+  }
+  )
